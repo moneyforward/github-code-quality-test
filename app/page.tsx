@@ -7,7 +7,7 @@ export default function Home() {
         </div>
 
         <h1 className="mb-4 text-5xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
-          Welcome to GitHub Code Quality Test
+          Welcome to GitHub Code Quality Test Preview
         </h1>
 
         <p className="mb-8 max-w-2xl text-xl text-gray-600 dark:text-gray-300">
